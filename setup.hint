@@ -1,5 +1,5 @@
 category: X11
-requires: mkfontdir mkfontscale fontconfig xorg-encodings xorg-font-alias
-sdesc: "Xorg Institute of Software Academia Sinica fonts"
-ldesc: "Xorg Institute of Software Academia Sinica fonts"
+requires: mkfontdir mkfontscale fontconfig font-encodings font-alias
+sdesc: "X.Org Institute of Software Academia Sinica fonts"
+ldesc: "X.Org Institute of Software Academia Sinica fonts"
 
